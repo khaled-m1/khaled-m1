@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khaled.
 - 👀 I’m interested in Web.
-- 🌱 I’m currently learning BS.
+- 🌱 I’m currently learning BS4.
 - 💞️ I’m looking to collaborate on Web Projects.
 - 📫 alanziq00@gmail.com
 
